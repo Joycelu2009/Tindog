@@ -1,1 +1,1 @@
-# Tindog
+A start up website that uses Bootstrap to beautify. This fun start up website is a website that advocates an app called tindog. This app helps dogs to find their partners. Using HTML,CSS and Bootstrap, I give this website a fresh design that looks modern and is easy to read!
